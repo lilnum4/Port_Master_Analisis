@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+python-ipaddress==1.0.23
+matplotlib==3.8.0
+networkx==3.1
+reportlab==4.0.4
+requests==2.31.0

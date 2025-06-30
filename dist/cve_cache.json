@@ -1,0 +1,38 @@
+{
+  "ftp": {
+    "timestamp": 1751286439.9631333,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "domain": {
+    "timestamp": 1751286440.0325155,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "http": {
+    "timestamp": 1751286440.103442,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "pop3": {
+    "timestamp": 1751286441.9211273,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "imap": {
+    "timestamp": 1751286441.9592798,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "": {
+    "timestamp": 1751286447.912905,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "https": {
+    "timestamp": 1751286448.1798337,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "pop3s": {
+    "timestamp": 1751286458.0254881,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  },
+  "imaps": {
+    "timestamp": 1751286458.040582,
+    "data": "Tidak dapat mengambil data CVE. Kode HTTP: 404"
+  }
+}

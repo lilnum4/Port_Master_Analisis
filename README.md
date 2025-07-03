@@ -2,9 +2,9 @@ Port_Master_Analisis
 PortMaster Aplikasi pemindai port berbasis GUI untuk analisis jaringan dan keamanan. 
 Fitur Utama - Scan port TCP/UDP - Jadwal otomatis - Export laporan PDF - Email report - Visualisasi jaringan   
 Requirements - Python 3.x - PyQt5, requests, matplotlib, networkx, reportlab, pillow, smtplib
-=======================================================================================================
+================================
 📄 PETUNJUK PENGGUNAAN APLIKASI
-=======================================================================================================
+================================
 
 Aplikasi yang Dibutuhkan:
 - Visual Studio Code (VS Code)
@@ -13,7 +13,7 @@ Aplikasi yang Dibutuhkan:
 
    A. Cek versi pip:
       pip --version
-
+      
    B. Arahkan ke direktori proyek:
       cd /home/ke/projectmu/
 
@@ -36,9 +36,9 @@ Aplikasi yang Dibutuhkan:
    - Menyediakan fitur pemindaian port umum (well-known ports).
    - Fitur pembersihan cache status (recycle port) untuk memudahkan pengelolaan dan efisiensi aplikasi.
 
-=======================================================================================================
+====================================
 📄 APPLICATION USAGE GUIDE (ENGLISH)
-=======================================================================================================
+====================================
 
 Required Application:
 - Visual Studio Code (VS Code)
@@ -69,5 +69,3 @@ Required Application:
    - Can scan websites and local networks logically.
    - Provides well-known port scanning feature.                                                                                                                           
    - Includes a recycle port (cache cleaner) to improve management and efficiency.                       
-                                                                                                             
-=========================================================================================================

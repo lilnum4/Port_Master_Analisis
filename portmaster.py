@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import matplotlib
+matplotlib.use('Agg')  # Non-interactive backend untuk menghindari GUI errors
 import sys
 import socket
 import ipaddress

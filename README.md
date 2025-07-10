@@ -67,4 +67,7 @@ Required Application:
    - Provides well-known port scanning feature.                                                                                                                           
    - Includes a recycle port (cache cleaner) to improve management and efficiency.
    - this link to exe file
-     https://drive.google.com/drive/folders/1fBstJtr3P7RqLodmPrWSRxHwk0jE3ZNk?usp=drive_link                 
+     https://drive.google.com/drive/folders/1fBstJtr3P7RqLodmPrWSRxHwk0jE3ZNk?usp=drive_link
+
+Project ini masih Tetap di tahapan update Hingga tanggal (7/15/2025)
+This project is still on going until updated (7/15/2025)
